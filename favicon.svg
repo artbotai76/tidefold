@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Tidefold">
+  <rect width="64" height="64" rx="16" fill="#f6cbb8"/>
+  <path d="M8 40c6-8 14-10 24-8 8 1 14 6 24 4v16H8V40z" fill="#5ebeb6"/>
+  <path d="M14 42c4 6 10 8 18 6 6-1 10-5 16-4 2 6-2 12-10 14-10 2-18-2-24-8v-8z" fill="#efd3aa"/>
+  <path d="M40 30l4 12H36l4-12z" fill="#fff8ee"/>
+  <path d="M40 18h4v12h-4z" fill="#ef8868"/>
+  <circle cx="42" cy="16" r="4" fill="#f0c36a"/>
+</svg>
